@@ -1,0 +1,23 @@
+{
+  "name": "api-nodejs",
+  "version": "1.0.0",
+  "description": "Simple api in development with nodejs, for studys ends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramonparaiba/api-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramonparaiba/api-nodejs/issues"
+  },
+  "homepage": "https://github.com/ramonparaiba/api-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
